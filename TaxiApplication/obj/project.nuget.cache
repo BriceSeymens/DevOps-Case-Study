@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "SJCvgfEf2dgY4LJcW6xdKfe/IuilHFOleKSePjI6xS+uOKq4bPgTLqK7w2qBMJXK3J0M940l9MCzQrrFT3tXFQ==",
+  "dgSpecHash": "CoOthlPenur471K5tCwES6T2Lyp5s8b/DynSqVhm4x0JpeMpNtsnJvZoP+WRwN7iy0iSJROz4ehaAVxBFKg7EQ==",
   "success": true,
-  "projectFilePath": "D:\\Documenten\\School\\IT\\ITF-2\\DevOpsNSecurity\\Case Study\\TaxiApplication\\TaxiApplication\\TaxiApplication.csproj",
+  "projectFilePath": "D:\\Documenten\\School\\IT\\ITF-2\\DevOpsNSecurity\\Case Study\\Project\\GitHub\\DevOps-Case-Study\\TaxiApplication\\TaxiApplication.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\brice\\.nuget\\packages\\dapper\\2.1.24\\dapper.2.1.24.nupkg.sha512",
     "C:\\Users\\brice\\.nuget\\packages\\entityframework\\6.4.4\\entityframework.6.4.4.nupkg.sha512",
